@@ -8,6 +8,6 @@ Set breast size slider max to 50 in HS2 Maker 😊
  - N/A
 
 **Possible Future Plans**
- - ~~Port to AI~~
+ - ~~Port to AI~~ (done)
  - Limit more sliders 😈
  - Automatically reduce certain sliders when card is loaded 😈😈
