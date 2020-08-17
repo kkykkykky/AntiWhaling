@@ -1,14 +1,15 @@
 ﻿using System.Reflection;
+using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("HS2_AntiWhaling")]
+[assembly: AssemblyTitle("AI_AntiWhaling")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("KKY")]
-[assembly: AssemblyProduct("HS2_AntiWhaling")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("AI_AntiWhaling")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -19,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("3980fafd-a87a-4d42-af3a-8c4e08a00a15")]
+[assembly: Guid("e40a9932-2c0b-49b3-9fd7-b3008e1f5e50")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -5,7 +5,16 @@ VisualStudioVersion = 16.0.30128.74
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HS2_AntiWhaling", "HS2_AntiWhaling\HS2_AntiWhaling.csproj", "{3980FAFD-A87A-4D42-AF3A-8C4E08A00A15}"
 EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Shared", "Shared\Shared.shproj", "{49B42AED-3945-457A-A42C-4EC97F377BF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI_AntiWhaling", "AI_AntiWhaling\AI_AntiWhaling.csproj", "{E40A9932-2C0B-49B3-9FD7-B3008E1F5E50}"
+EndProject
 Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Shared\Shared.projitems*{3980fafd-a87a-4d42-af3a-8c4e08a00a15}*SharedItemsImports = 4
+		Shared\Shared.projitems*{49b42aed-3945-457a-a42c-4ec97f377bf0}*SharedItemsImports = 13
+		Shared\Shared.projitems*{e40a9932-2c0b-49b3-9fd7-b3008e1f5e50}*SharedItemsImports = 4
+	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
@@ -15,6 +24,10 @@ Global
 		{3980FAFD-A87A-4D42-AF3A-8C4E08A00A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3980FAFD-A87A-4D42-AF3A-8C4E08A00A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3980FAFD-A87A-4D42-AF3A-8C4E08A00A15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E40A9932-2C0B-49B3-9FD7-B3008E1F5E50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E40A9932-2C0B-49B3-9FD7-B3008E1F5E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E40A9932-2C0B-49B3-9FD7-B3008E1F5E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E40A9932-2C0B-49B3-9FD7-B3008E1F5E50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
