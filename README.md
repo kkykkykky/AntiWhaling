@@ -1,5 +1,5 @@
 # AntiWhaling
-Set breast size slider max to 50 in HS2 Maker 😊
+Set breast size slider max to 50 in HS2 & AI Maker 😊
 
 **Downlaod:**
  - N/A
